@@ -8,7 +8,7 @@ This repository is dedicated solely to hosting media assets, screenshots, and vi
 
 You can download and check the latest updates for **VanillaAqua-Reflections** on:
 
-- 🟢 **Modrinth:** [VanillaAqua-Reflections on Modrinth]([https://modrinth.com](https://modrinth.com/shader/vanillaqua-reflections))
+- 🟢 **Modrinth:** [VanillaAqua-Reflections on Modrinth](https://modrinth.com/shader/vanillaqua-reflections)
 - 🟠 **CurseForge:** [VanillaAqua-Reflections on CurseForge](https://curseforge.com)
 
 ---
